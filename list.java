@@ -1,4 +1,7 @@
 # list of users
-# Micheal
-# peter 
-# paul
+ Micheal
+peter 
+ paul
+abena
+lucy
+afi
